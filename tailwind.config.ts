@@ -23,6 +23,13 @@ const config: Config = {
         300: '#75E3EA',
         600: '#1DB5BE',
       },
+      white: '#fff',
+      black: '#000',
+    },
+    extend: {
+      screens: {
+        xsm: '245px',
+      },
     },
   },
   plugins: [],
