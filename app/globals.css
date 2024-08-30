@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+main {
+  background: url('/assets/Background.png') no-repeat center/cover;
+  height: 100vh;
+}
+@media (max-width: 740px) {
+  main {
+    background: url('/assets/Background.png') no-repeat right/cover;
+  }
+}
 @layer utilities {
   .navSet {
     @apply flex lg:gap-2 lg:static md:absolute sm:absolute xsm:absolute top-[10vh] right-0 lg:flex-row md:flex-col sm:flex-col xsm:flex-col lg:w-fit md:w-full sm:w-full xsm:w-full lg:bg-white md:bg-neutral-700 sm:bg-neutral-700 xsm:bg-neutral-700 items-center lg:h-fit md:h-[80vh] sm:h-[80vh] xsm:h-[80vh] md:gap-10 sm:gap-10 xsm:gap-10 justify-around transition-all;

@@ -1,5 +1,9 @@
 const page = () => {
-  return <div>page</div>;
+  return (
+    <>
+      <div className='h-screen'>page</div>
+    </>
+  );
 };
 
 export default page;
