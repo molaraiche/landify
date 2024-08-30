@@ -3,3 +3,8 @@ export interface navLinksType {
   path: string;
   label: string;
 }
+export interface partnersType {
+  id: number;
+  name: string;
+  imgURL: string;
+}

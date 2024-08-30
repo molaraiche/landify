@@ -1,7 +1,11 @@
+import Home from '@/components/Home';
+import Sponsors from '@/components/Sponsors';
+
 const page = () => {
   return (
     <>
-      <div className='h-screen'>page</div>
+      <Home />
+      <Sponsors />
     </>
   );
 };
