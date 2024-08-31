@@ -10,8 +10,8 @@ const Sponsors = () => {
           src={partner.imgURL}
           alt={partner.name}
           key={partner.id}
-          width={122}
-          height={26}
+          width={partner.width}
+          height={partner.height}
         />
       ))}
     </div>
