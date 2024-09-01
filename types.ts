@@ -10,3 +10,9 @@ export interface partnersType {
   width: number;
   height: number;
 }
+export interface featuresType {
+  id: number;
+  icon: string;
+  title: string;
+  context: string;
+}

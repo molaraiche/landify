@@ -6,7 +6,9 @@ main {
   background: url('/assets/Background.png') no-repeat center/cover;
   height: 100vh;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 @media (max-width: 740px) {
   main {
     background: url('/assets/Background.png') no-repeat right/cover;
