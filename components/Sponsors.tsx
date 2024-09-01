@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const Sponsors = () => {
   return (
-    <div className='flex flex-wrap items-center justify-center gap-16 lg:h-[20vh] md:h-auto sm:h-auto xsm:min-h-[20vh] my-4'>
+    <div className='flex flex-wrap items-center justify-center gap-16 h-auto my-[4rem] '>
       {partners.map((partner: partnersType) => (
         <Image
           src={partner.imgURL}

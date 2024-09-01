@@ -16,3 +16,10 @@ export interface featuresType {
   title: string;
   context: string;
 }
+export interface testimonialType {
+  id?: number;
+  imgURL: string;
+  quote: string;
+  author: string;
+  position: string;
+}

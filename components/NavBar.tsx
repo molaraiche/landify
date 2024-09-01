@@ -12,7 +12,7 @@ const NavBar = () => {
   const [menu, setMenu] = useState(false);
   const menuHandler = () => setMenu(!menu);
   return (
-    <header className='flex items-center h-[10vh] justify-between'>
+    <header className='flex items-center h-[10vh] justify-between lg:container lg:mx-auto md:px-14 sm:px-10 xsm:px-4'>
       <div className='flex items-center gap-8'>
         <Link onClick={() => setMenu(false)} href='/'>
           <Image
