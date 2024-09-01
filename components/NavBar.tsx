@@ -23,7 +23,7 @@ const NavBar = () => {
           />
         </Link>
         <nav
-          className={`navSet bg-transparent lg:translate-y-[0%] ${
+          className={`navSet lg:translate-y-[0%] ${
             menu
               ? 'md:translate-y-[0%] '
               : 'md:translate-y-[-200%] sm:translate-y-[-200%] xsm:translate-y-[-200%] '
