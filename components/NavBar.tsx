@@ -33,7 +33,7 @@ const NavBar = () => {
               onClick={() => setMenu(false)}
               href={link.path}
               key={link.id}
-              className='font-bold lg:text-neutral-900 md:text-white sm:text-white xsm:text-white leading-5 text-sm'>
+              className='font-bold lg:text-neutral-900 md:text-white sm:text-white xsm:text-white leading-5 lg:text-sm md:text-2xl md:font-semibold sm:text-4xl sm:font-semibold xsm:text-4xl xsm:font-semibold'>
               {link.label}
             </Link>
           ))}
