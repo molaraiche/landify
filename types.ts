@@ -23,3 +23,9 @@ export interface testimonialType {
   author: string;
   position: string;
 }
+export interface metricsType {
+  id: number;
+  icon: string;
+  stats: string;
+  description: string;
+}

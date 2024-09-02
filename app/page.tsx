@@ -1,5 +1,6 @@
 import Features from '@/components/Features';
 import Home from '@/components/Home';
+import Metrics from '@/components/Metrics';
 import Sponsors from '@/components/Sponsors';
 import Testimonials from '@/components/Testimonials';
 
@@ -11,7 +12,10 @@ const page = () => {
         <Sponsors />
         <Features />
       </section>
-      <Testimonials />
+      <Testimonials />.
+      <section className='lg:container lg:mx-auto md:px-14 sm:px-10 xsm:px-4'>
+        <Metrics />
+      </section>
     </>
   );
 };
