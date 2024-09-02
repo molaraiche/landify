@@ -18,7 +18,7 @@ const Testimonials = () => {
               height={116}
             />
             <div className=' ml-24 mt-14'>
-              <h1 className='text-5xl font-bold leading-[60px] text-neutral-900 w-[600px]'>
+              <h1 className='lg:text-5xl md:text-4xl sm:text-3xl xsm:text-2xl font-bold leading-[60px] text-neutral-900 lg:w-[600px]'>
                 Real Stories from Real Customers
               </h1>
               <p className='text-lg text-neutral-900 leading-7 mt-2'>
@@ -29,7 +29,7 @@ const Testimonials = () => {
         </div>
       </div>
 
-      <div className='flex lg:flex-row md:flex-col  items-center justify-center lg:gap-8 md:gap-6 sm:gap-6 xsm:gap-6'>
+      <div className='flex lg:flex-row md:flex-col sm:flex-col xsm:flex-col items-center justify-center lg:gap-8 md:gap-6 sm:gap-6 xsm:gap-6 mt-10 '>
         <div className='lg:w-[384px] md:w-[90%] sm:w-[90%] xsm:w-[90%]'>
           <TestimonialCard
             imgURL='hubspot'
@@ -38,8 +38,8 @@ const Testimonials = () => {
             position='Vice President, GoPro'
           />
         </div>
-        <div className='md:flex md:flex-col md:gap-6 sm:gap-6 xsm:gap-6'>
-          <div className='lg:w-[488px] md:w-full sm:w-full xsm:w-full'>
+        <div className='lg:block md:flex md:flex-col sm:flex sm:flex-col xsm:flex xsm:flex-col   sm:gap-6 xsm:gap-6 lg:w-[384px] md:w-[90%] sm:w-[90%] xsm:w-[90%]'>
+          <div className=''>
             <TestimonialCard
               imgURL='airbnb'
               quote='I used landify and created a landing page for my startup within a week. The Landify UI Kit is simple and highly intuitive, so anyone can use it.'
@@ -47,7 +47,7 @@ const Testimonials = () => {
               position='CEO, Airbnb'
             />
           </div>
-          <div className='lg:w-[384px] md:w-full sm:w-full xsm:w-full'>
+          <div className=''>
             <TestimonialCard
               imgURL='starpi'
               quote='Landify saved our time in designing my company page.'

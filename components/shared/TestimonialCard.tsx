@@ -8,7 +8,7 @@ const TestimonialCard = ({
   position,
 }: testimonialType) => {
   return (
-    <div className='bg-white  rounded-lg'>
+    <div className='bg-white rounded-lg'>
       <div className=' flex flex-col m-8'>
         <div className='flex items-start h-full  gap-4 mt-8'>
           <Image
