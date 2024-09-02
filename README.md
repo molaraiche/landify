@@ -2,7 +2,7 @@
 
 ## 🌐 Demo
 
-Here is a working live demo: https://molaraiche-landify.vercel.app/
+Here is a working live demo: <https://molaraiche-landify.vercel.app/>
 
 ## 📝 Description
 
@@ -12,15 +12,6 @@ Welcome to my project! Here, I'll provide you with a brief overview of what insp
 - Why I Built This Project: My main goal was to create a practical and user-friendly landing page.
 - Problem Solved: This project aims to simplify applicaiton engagements, making it more efficient and accessible.
 - What I Learned: Throughout the development process, I gained valuable insights into working with the combanition of the techs im aiming to master: typescript,next js and tailwind css.
-
-## 📖 Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## 🛠️ Setup Project
 
@@ -33,7 +24,6 @@ We need to install or make sure that these tools are pre-installed on your machi
 - [NodeJS](https://nodejs.org/en/download/): It is a JavaScript runtime build.
 - [Git](https://git-scm.com/downloads): It is an open source version control system.
 - [NPM](https://docs.npmjs.com/getting-started/installing-node): It is a package manager for JavaScript.
-- ...
 
 ### 🚀 Install Project
 
