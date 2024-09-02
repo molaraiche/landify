@@ -1,3 +1,4 @@
+import CTA from '@/components/CTA';
 import Features from '@/components/Features';
 import Home from '@/components/Home';
 import Metrics from '@/components/Metrics';
@@ -16,6 +17,7 @@ const page = () => {
       <section className='lg:container lg:mx-auto md:px-14 sm:px-10 xsm:px-4'>
         <Metrics />
       </section>
+      <CTA />
     </>
   );
 };
