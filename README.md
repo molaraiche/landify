@@ -2,8 +2,6 @@
 
 ## 🌐 Demo
 
-![demo]("https://drive.google.com/file/d/1dtcZwExIQOWJ8SKq124_v6qZcEHelG7g/view?usp=sharing)
-
 Here is a working live demo: <https://molaraiche-landify.vercel.app/>
 
 ## 📝 Description
