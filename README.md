@@ -85,6 +85,4 @@ Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].
 
 ## 📞 Contact Us
 
-[![Follow us on twitter](https://img.shields.io/twitter/follow/jsmasterypro.svg?style=social)](https://x.com/molaraiche)
-[![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-javascriptmastery-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mohamedlaraiche/)
-[![Follow us on Instagram](https://img.shields.io/badge/Instagram-javascriptmastery-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/molaraiche/)
+- [PORTFOLIO](https://www.molaraiche.com/)
