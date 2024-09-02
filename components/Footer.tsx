@@ -21,8 +21,7 @@ const Footer = () => {
               Download Now
             </a>
             <Link href='#' className='leading-6'>
-              {' '}
-              License{' '}
+              License
             </Link>
           </div>
           <div className='flex lg:flex-nowrap flex-wrap gap-6'>

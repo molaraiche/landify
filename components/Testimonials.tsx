@@ -1,7 +1,4 @@
-import { testimonials } from '@/constants/testimonials';
-import { testimonialType } from '@/types';
 import Image from 'next/image';
-import React from 'react';
 import TestimonialCard from './shared/TestimonialCard';
 
 const Testimonials = () => {
