@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import React from 'react';
 
 const CTA = () => {
   return (
@@ -7,7 +6,7 @@ const CTA = () => {
       <div className='lg:container lg:mx-auto md:px-14 sm:px-10 xsm:px-4 flex lg:flex-row md:flex-col sm:flex-col xsm:flex-col items-center justify-between gap-8 '>
         <div className='flex justify-center flex-col gap-12 '>
           <div className='lg:w-[592px] sm:w-[353px]  flex flex-col items-center '>
-            <h1 className='lg:text-5xl md:text-4xl sm:text-3xl text-neutral-900 font-bold leading-[60px]'>
+            <h1 className='lg:text-5xl md:text-4xl sm:text-3xl text-neutral-900 font-bold leading-[60px] mt-9'>
               Manage all projects from your mobile
             </h1>
             <p className='lg:text-lg md:text-lg sm:text-base xsm:text-base text-neutral-900'>
@@ -34,7 +33,7 @@ const CTA = () => {
             </div>
           </div>
         </div>
-        <div className='flex lg:flex-row md:flex-row sm:flex-col xsm:flex-col'>
+        <div className='flex lg:flex-row md:flex-row sm:flex-col xsm:flex-col '>
           <Image
             src='./assets/phone-mockup-1.svg'
             alt=''

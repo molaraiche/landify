@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const Metrics = () => {
   return (
-    <section className='flex lg:flex-row md:flex-col sm:flex-col xsm:flex-col items-center justify-center gap-8 min-h-[40vh]'>
+    <section className='flex lg:flex-row md:flex-col sm:flex-col xsm:flex-col items-center justify-center gap-8 min-h-[40vh] lg:my-0 md:my-20 sm:my-20 xsm:my-20 '>
       <div className='lg:w-[592px]'>
         <h1 className='lg:text-5xl md:text-4xl sm:text-3xl xsm:text-2xl font-bold leading-[60px] text-neutral-900'>
           Our 18 years of achievements
