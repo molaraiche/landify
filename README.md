@@ -2,6 +2,8 @@
 
 ## 🌐 Demo
 
+![demo]("/public/assets/reamde-demo.png")
+
 Here is a working live demo: <https://molaraiche-landify.vercel.app/>
 
 ## 📝 Description
