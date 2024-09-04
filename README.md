@@ -79,10 +79,6 @@ I'd like to acknowledge my collaborators, who contributed to the success of this
 
 X: @aravinddesign
 
-## 📚 References
-
-Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].
-
 ## 📞 Contact Us
 
 - [molaraiche | Frontend Developer](https://www.molaraiche.com/)
