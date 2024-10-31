@@ -2,7 +2,7 @@
 
 ## 🌐 Demo
 
-Here is a working live demo: <https://molaraiche-landify.vercel.app/>
+Here is a working live demo: <https://landify.molaraiche.com/>
 
 ## 📝 Description
 
